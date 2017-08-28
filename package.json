@@ -1,0 +1,16 @@
+{
+  "name": "example-modbus",
+  "version": "1.0.0",
+  "description": "Example application for connecting a Modbus TCP/IP to the Losant IoT Platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Losant <hello@losant.com>",
+  "license": "ISC",
+  "dependencies": {
+    "jsmodbus": "^2.1.1",
+    "losant-mqtt": "^2.0.2"
+  }
+}
